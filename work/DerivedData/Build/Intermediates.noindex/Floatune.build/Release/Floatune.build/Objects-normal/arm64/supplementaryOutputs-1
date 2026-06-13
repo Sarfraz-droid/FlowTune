@@ -1,0 +1,12 @@
+{
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/Models.swift" : {
+    "abi-baseline-json" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune.abi.json",
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary.dia",
+    "objc-header" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-Swift.h",
+    "swiftdoc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune.swiftdoc",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune.swiftmodule",
+    "swiftsourceinfo" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune.swiftsourceinfo"
+  }
+}

@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'FloatuneTests' in project 'Floatune'
+➜ Explicit dependency on target 'Floatune' in project 'Floatune'
+Target 'Floatune' in project 'Floatune' (no dependencies)

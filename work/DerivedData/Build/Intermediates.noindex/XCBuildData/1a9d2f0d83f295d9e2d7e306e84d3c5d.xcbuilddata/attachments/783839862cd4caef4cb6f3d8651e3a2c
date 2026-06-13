@@ -1,0 +1,66 @@
+{
+  "" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary.dia",
+    "emit-module-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary-emit-module.dia",
+    "pch" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Floatune-primary.swiftdeps"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/AppModel.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/AppModel.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/AppModel.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/AppModel.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/AppSettings.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/AppSettings.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/AppSettings.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/AppSettings.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/FloatingPanelController.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/FloatingPanelController.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/FloatingPanelController.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/FloatingPanelController.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/FloatuneApp.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/FloatuneApp.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/FloatuneApp.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/FloatuneApp.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/GlobalShortcutManager.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/GlobalShortcutManager.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/GlobalShortcutManager.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/GlobalShortcutManager.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/MenuBarView.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/MenuBarView.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/MenuBarView.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/MenuBarView.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/Models.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/Models.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/PlayerViews.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/PlayerViews.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/PlayerViews.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/PlayerViews.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/SettingsView.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/ShortcutRecorder.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/ShortcutRecorder.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/ShortcutRecorder.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/ShortcutRecorder.o"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/SpotifyPlaybackService.swift" : {
+    "index-unit-output-path" : "/Floatune.build/Release/Floatune.build/Objects-normal/arm64/SpotifyPlaybackService.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/SpotifyPlaybackService.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Release/Floatune.build/Objects-normal/arm64/SpotifyPlaybackService.o"
+  }
+}

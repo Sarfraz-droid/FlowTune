@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Floatune-primary.dia",
+    "emit-module-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Floatune-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Floatune-primary-emit-module.dia",
+    "pch" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Floatune-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Floatune-primary.swiftdeps"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/AppModel.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppModel.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppModel.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppModel.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppModel.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppModel.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppModel.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppModel.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppModel~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/AppSettings.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppSettings.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppSettings.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppSettings.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppSettings.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppSettings.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppSettings.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppSettings.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/AppSettings~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/FloatingPanelController.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatingPanelController.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatingPanelController.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatingPanelController.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatingPanelController.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatingPanelController.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatingPanelController.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatingPanelController.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatingPanelController~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/FloatuneApp.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatuneApp.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatuneApp.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatuneApp.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatuneApp.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatuneApp.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatuneApp.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatuneApp.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/FloatuneApp~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/GlobalShortcutManager.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/GlobalShortcutManager.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/GlobalShortcutManager.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/GlobalShortcutManager.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/GlobalShortcutManager.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/GlobalShortcutManager.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/GlobalShortcutManager.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/GlobalShortcutManager.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/GlobalShortcutManager~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/MenuBarView.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/MenuBarView.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/MenuBarView.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/MenuBarView.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/MenuBarView.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/MenuBarView.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/MenuBarView.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/MenuBarView.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/MenuBarView~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/Models.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Models.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Models.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Models.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Models.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Models.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Models.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Models.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/Models~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/PlayerViews.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/PlayerViews.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/PlayerViews.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/PlayerViews.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/PlayerViews.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/PlayerViews.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/PlayerViews.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/PlayerViews.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/PlayerViews~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/SettingsView.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SettingsView.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SettingsView.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SettingsView.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SettingsView.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SettingsView.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/ShortcutRecorder.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/ShortcutRecorder.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/ShortcutRecorder.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/ShortcutRecorder.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/ShortcutRecorder.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/ShortcutRecorder.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/ShortcutRecorder.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/ShortcutRecorder.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/ShortcutRecorder~partial.swiftmodule"
+  },
+  "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/SpotifyPlaybackService.swift" : {
+    "const-values" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SpotifyPlaybackService.swiftconstvalues",
+    "dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SpotifyPlaybackService.d",
+    "diagnostics" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SpotifyPlaybackService.dia",
+    "index-unit-output-path" : "/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SpotifyPlaybackService.o",
+    "llvm-bc" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SpotifyPlaybackService.bc",
+    "object" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SpotifyPlaybackService.o",
+    "swift-dependencies" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SpotifyPlaybackService.swiftdeps",
+    "swiftmodule" : "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/work/DerivedData/Build/Intermediates.noindex/Floatune.build/Debug/Floatune.build/Objects-normal/x86_64/SpotifyPlaybackService~partial.swiftmodule"
+  }
+}

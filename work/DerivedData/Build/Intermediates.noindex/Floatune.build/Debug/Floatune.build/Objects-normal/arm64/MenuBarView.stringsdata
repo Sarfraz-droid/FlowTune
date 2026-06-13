@@ -1,0 +1,48 @@
+{
+  "source": "/Users/fa073405/Documents/Codex/2026-06-11/create-a-spotify-floating-window-app/Floatune/MenuBarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hide Floating Player",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show Floating Player",
+        "location": {
+          "startingColumn": 82,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Spotify",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings…",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quit Floatune",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 66
+        }
+      }
+    ]
+  },
+  "version": 1
+}
