@@ -33,9 +33,18 @@ Floatune controls the locally installed Spotify app through macOS Automation. Sp
 
 ## Installation
 
-1. Open `Floatune.app`.
-2. Allow Floatune to control Spotify when macOS asks for Automation permission.
-3. Use the waveform icon in the menu bar to access controls and settings.
+### Installer
+
+1. Open `Floatune-1.0.pkg`.
+2. Follow the installer and enter an administrator password when requested.
+3. Launch Floatune from `/Applications`.
+4. Allow Floatune to control Spotify when macOS asks for Automation permission.
+
+The installer replaces an existing Floatune installation in `/Applications` when upgrading.
+
+### Manual Installation
+
+Drag `Floatune.app` into `/Applications`, then open it.
 
 Floatune is a menu-bar utility and does not appear in the Dock.
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pkg-info overwrite-permissions="true" relocatable="false" identifier="local.floatune.installer" postinstall-action="none" version="1.0" format-version="2" generator-version="InstallCmds-864.1 (25E253)" install-location="/Applications" auth="root">
+    <payload numberOfFiles="9" installKBytes="3351"/>
+    <bundle path="./Floatune.app" id="local.floatune.app" CFBundleShortVersionString="1.0" CFBundleVersion="1"/>
+    <bundle-version>
+        <bundle id="local.floatune.app"/>
+    </bundle-version>
+    <upgrade-bundle>
+        <bundle id="local.floatune.app"/>
+    </upgrade-bundle>
+    <update-bundle/>
+    <atomic-update-bundle/>
+    <strict-identifier>
+        <bundle id="local.floatune.app"/>
+    </strict-identifier>
+    <relocate>
+        <bundle id="local.floatune.app"/>
+    </relocate>
+</pkg-info>
